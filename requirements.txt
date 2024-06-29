@@ -1,0 +1,13 @@
+dash==2.14.2
+dash-bio==1.0.1
+numpy==1.26.2
+pandas==2.1.4
+scikit-learn==1.3.2
+matplotlib==3.8.2
+plotly-express
+plotly==5.18.0
+statsmodels==0.14.1
+conorm==1.2.0
+mrmr-selection==0.2.8
+skrebate==0.62
+scipy==1.11.4
