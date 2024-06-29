@@ -1,0 +1,112 @@
+body{
+    font-family: "Segoe UI";
+    background-color: #0e1012;
+    color: #fff;
+    font-size: 24px;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Segoe UI";
+    font-size: 48px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+input {
+    font-size: 30px;
+}
+
+#radius{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+.radio{
+    margin-right: 20px;
+}
+
+.radio:last-child {
+    margin-right: 0;
+}
+
+.radio label {
+    cursor: pointer;
+    font-size: 24px;
+    padding: 10px;
+}
+
+.radio input[type="radio"] {
+    display: none;
+}
+
+.radio input[type="radio"] + label {
+    background-color: #f0f0f0;
+    border-radius: 20px;
+}
+
+.radio input[type="radio"]:checked + label {
+    background-color: #2b2d42;
+    color: #ffffff;
+}
+
+#full-graph {
+    width: 1500px;
+    margin-left: 20vw;
+    font-size: 20px;
+}
+
+
+#pca {
+    width: 700px;
+    margin-left: 30vw;
+}
+
+.dash-graph {
+    height: 500px;
+    margin-top: 40px;
+
+}
+
+
+
+.buttons {
+    background-color: #2b2d42;
+    color: #ffffff;
+    border-radius: 20px;
+    padding: 10px 20px;
+    font-size: 24px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    margin-left: 20px;
+}
+
+.buttons {
+    color: #2186f4;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #2186f4;
+    border-radius: 10px;
+    background-color: #0e1012;
+    text-transform: uppercase;
+}
+
+.buttons:hover {
+    background-color: #ffffff;
+    color: #2b2d42;
+    border: 2px solid #2b2d42;
+    cursor: pointer;
+}
+
+
+
+#components-graph {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.dash-dropdown{
+	color: black
+}
