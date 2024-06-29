@@ -1,6 +1,7 @@
 # Herramienta Python para pipeline completo de datos de secuenciación RNASeq
 
 Autor: Ignacio Garach Vélez
+
 Máster en Ciencia de Datos e Ingeniería de Computadores por la Universidad de Granada
 
 Este repositorio contiene una herramienta desarrollada en Python para llevar a cabo un pipeline completo de datos de secuenciación RNASeq. La herramienta incluye funcionalidades para el análisis de expresión génica y clasificación en datos transcriptómicos, facilitando la búsqueda de biomarcadores de enfermedades como el cáncer.
