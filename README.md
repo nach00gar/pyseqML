@@ -1,4 +1,4 @@
-# Herramienta Python para pipeline inteligent de datos de secuenciación RNASeq
+# Herramienta Python para pipeline inteligente de datos de secuenciación RNASeq
 
 Autor: Ignacio Garach Vélez
 
